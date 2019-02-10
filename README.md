@@ -1,1 +1,1 @@
-ChessAI
+ChessGame
